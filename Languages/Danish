@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Designator_PlantCut_Blighted_label>Skær syge planter /Designator_PlantCut_Blighted_label>
+	<Designator_PlantCut_Blighted_desc>Markerer kun syge planter, der skal skæres</Designator_PlantCut_Blighted_desc>
+	<Designator_PlantCut_Blighted_rejected>Skal udpege syge planter!</Designator_PlantCut_Blighted_rejected>
+	
+	<Designator_PlantsHarvest_Mature_label>Høst modne planter</Designator_PlantsHarvest_Mature_label>
+	<Designator_PlantsHarvest_Mature_desc>Markerer kun fuldt dyrkede planter til høst</Designator_PlantsHarvest_Mature_desc>
+	<Designator_PlantsHarvest_Mature_rejected>Skal skal vælge en fuldt dyrkede planter!</Designator_PlantsHarvest_Mature_rejected>
+
+	<Designator_PlantsHarvestWood_Mature_label>Fæld modent træ</Designator_PlantsHarvestWood_Mature_label>
+	<Designator_PlantsHarvestWood_Mature_desc>Markerer kun fuldt dyrkede træer til høst</Designator_PlantsHarvestWood_Mature_desc>
+	<Designator_PlantsHarvestWood_Mature_Rejected>Skal udpege fuldt dyrkede træer!</Designator_PlantsHarvestWood_Mature_Rejected>
+		
+</LanguageData>
